@@ -6,7 +6,7 @@ from clippify import clippify
 
 @clippify
 def say_hi(name):
-  "Says hi to a person"
+  "Says hello to a person"
   return f'Hello, {name}'
 ```
 
