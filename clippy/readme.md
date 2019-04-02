@@ -26,3 +26,5 @@ of the function defined above.
 |\_/|      |                                                                      |
 \___/      ----------------------------------------------------------------------/ 
 ```
+
+If you like this project, go ahead and give it a star!
